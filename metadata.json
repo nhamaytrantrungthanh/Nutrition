@@ -1,0 +1,6 @@
+{
+  "name": "Nutrition Explorer",
+  "description": "Get calorie and major nutrition details for any food name entered. Powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
